@@ -15,7 +15,7 @@
     <h2>System Requirements</h2>
     <ul>
         <li><strong>Operating System:</strong> MS-DOS, DOSBox, or compatible environment.</li>
-        <li><strong>Processor:</strong> x86 architecture (compatible with Intel 8086 or later).</li>
+        <li><strong>Processor:</strong> x86 or x 88 architecture (compatible with Intel 8088 or later).</li>
         <li><strong>Memory:</strong> Sufficient RAM to run DOS applications.</li>
         <li><strong>Input:</strong> Keyboard for controlling the player character.</li>
     </ul>
