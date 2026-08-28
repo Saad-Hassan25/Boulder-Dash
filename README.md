@@ -1,3 +1,17 @@
+<!-- Project cover -->
+<p align="center">
+  <img src="./project-cover.svg" alt="Boulder Dash cover" width="100%" />
+</p>
+
+> **x86 Assembly** — An assembly-language take on Boulder Dash with an externally loaded cave layout.
+
+## Project snapshot
+
+- Explore the cave, collect diamonds, navigate walls, and account for boulder interactions.
+- Includes a root-level <a href="./project-cover.svg">project-cover.svg</a>, a scalable project cover graphic for this repository.
+
+---
+
 <!DOCTYPE html>
 <html lang="en">
 
